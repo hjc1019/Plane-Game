@@ -1,7 +1,6 @@
 My Plane Game
 
-You can use   w           up             k         to move your plane
-            a s d   left down right    h j l
+You can use   w a s d          up left down right         k h j l        to move your plane                
             
 And "space" for the bomb which can eliminate all enemies
 
